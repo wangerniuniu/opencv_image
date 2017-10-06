@@ -11,6 +11,7 @@ int main()
 {
 	Mat img = imread("1.jpg");
 	imshow("ÔØÈëµÄÍ¼Æ¬", img);
+	int a = 0;
 	waitKey(6000);
 	return  0;
 }
